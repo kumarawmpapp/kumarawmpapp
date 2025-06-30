@@ -1,5 +1,8 @@
 name: Update recent repos in profile README
 
+permissions:
+  contents: write
+  
 on:
   schedule:
     - cron: "0 0 * * *" # Runs once a day at midnight UTC
