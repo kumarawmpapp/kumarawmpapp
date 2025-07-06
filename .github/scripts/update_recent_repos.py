@@ -46,7 +46,7 @@ def update_readme(repos):
     intro_line = "Here are a few of my recent public projects — experiments, tools, and the occasional miracle:"
     repo_lines = [intro_line, ""]
     for name, url, description in repos:
-        repo_lines.append(f"➤ [{name}]({url}) — {description}")
+        repo_lines.append(f"➤ [{name}]({url}) — {description}\n")
 
     new_section = f"{start_marker}\n" + "\n".join(repo_lines) + f"\n{end_marker}"
     new_content = content[:start] + new_section + content[end + len(end_marker):]
