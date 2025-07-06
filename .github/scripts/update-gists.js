@@ -14,7 +14,7 @@ async function getGists() {
 function generateList(gists) {
   return gists.map(gist => {
     const desc = gist.description || '(no description)';
-    return `- [${desc}](${gist.html_url})`;
+    return `-> [${desc}](${gist.html_url})`;
   }).join('\n');
 }
 
