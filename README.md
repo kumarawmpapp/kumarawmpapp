@@ -1,3 +1,9 @@
+## 📂 My Public Gists
+
+<!-- GIST-LIST:START -->
+<!-- GIST-LIST:END -->
+
+
 ## 🕒 Recent Repositories
 <!-- RECENT_REPOS_START -->
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs)
