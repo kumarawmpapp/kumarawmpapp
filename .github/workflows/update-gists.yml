@@ -1,4 +1,4 @@
-name: 🌀 Update Gist List in README
+name: Update Gist List in README
 
 on:
   schedule:
@@ -21,7 +21,7 @@ jobs:
         run: npm install node-fetch
 
       - name: 🧠 Generate gist list and update README
-        run: node update-readme.js
+        run: node update-gists.js
 
       - name: ✅ Commit and push if changes
         run: |
