@@ -6,7 +6,7 @@ on:
   workflow_dispatch:      # Manual trigger
 
 jobs:
-  update-readme:
+  update-gists:
     runs-on: ubuntu-latest
     steps:
       - name: 🔄 Checkout repo
@@ -21,7 +21,7 @@ jobs:
         run: npm install node-fetch
 
       - name: 🧠 Generate gist list and update README
-        run: node .github/scripts/update-gists.js
+        run: node .github/scripts/update-gists.mjs
 
       - name: ✅ Commit and push if changes
         run: |
