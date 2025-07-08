@@ -1,5 +1,8 @@
 name: Update Gist List in README
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '* * 8 * *'  # 8th of the month
