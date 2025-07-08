@@ -4,15 +4,25 @@
 I’ve been messing around with a few things lately — here’s what I’ve been pushing to GitHub when I’m not doomscrolling or debugging:
 
 <!-- RECENT_REPOS_START -->
+
 ➤ [kumarawmpapp](https://github.com/kumarawmpapp/kumarawmpapp) — Profile Repository
+
 ➤ [meta-front-end-developer](https://github.com/kumarawmpapp/meta-front-end-developer) — Meta Front-End Developer | Coursera
+
 ➤ [DevTeamPro](https://github.com/kumarawmpapp/DevTeamPro) — (no description yet)
+
 ➤ [accountbook](https://github.com/kumarawmpapp/accountbook) — (no description yet)
+
 ➤ [portfolio-profile](https://github.com/kumarawmpapp/portfolio-profile) — Portfolio page for the assignment
+
 ➤ [waste-manager-5](https://github.com/kumarawmpapp/waste-manager-5) — Waste management order process
+
 ➤ [waste-management-5](https://github.com/kumarawmpapp/waste-management-5) — (no description yet)
+
 ➤ [waste-helper](https://github.com/kumarawmpapp/waste-helper) — private repo of REM Waste Management system 2
+
 ➤ [littlelemon](https://github.com/kumarawmpapp/littlelemon) — iOS app capstone project
+
 ➤ [little-lemon-menu-app-ios](https://github.com/kumarawmpapp/little-lemon-menu-app-ios) — (no description yet)
 
 <!-- RECENT_REPOS_END -->
