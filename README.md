@@ -32,5 +32,6 @@ Here are a few of my recent public projects — experiments, tools, and the occa
 Hey 👋, I occasionally toss useful code bits into Gists. Below are some of the things I’ve shared recently — from config hacks to weird experiments I’m not brave enough to call projects yet:
 
 <!-- GIST-LIST:START -->
+➤ [A smart Zsh function for cloning Git repositories using different profiles (SSH key, name, and email). Supports interactive prompts, SSH-first clone strategy, and fallback to HTTPS. Ideal for developers juggling work/personal GitHub accounts. Includes tab completion and full git clone arg support.  tags : zsh, git, ssh, automation, shell, dotfiles, multiple-git-accounts, git-clone-helper](https://gist.github.com/kumarawmpapp/69910af63c103ca65de15f665ddb5f9d)
 <!-- GIST-LIST:END -->
 
