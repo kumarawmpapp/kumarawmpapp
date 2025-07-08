@@ -3,7 +3,7 @@ import requests
 
 USERNAME = os.environ["GH_USERNAME"]
 TOKEN = os.environ["GH_TOKEN"]
-API_URL = f"https://api.github.com/users/{USERNAME}/repos?type=owner&sort=updated&per_page=10"
+API_URL = f"https://api.github.com/users/{USERNAME}/repos?type=owner&sort=updated"
 
 def get_recent_repos(username, token, max_repos=10):
     headers = {
@@ -17,7 +17,7 @@ def get_recent_repos(username, token, max_repos=10):
 
     repos = []
     for repo in repos_data:
-        if repo["fork"]:
+        if repo["fork"] || repo["archived"]:
             continue  # Skip forked repos
 
         name = repo["name"]
@@ -43,10 +43,9 @@ def update_readme(repos):
         print("❌ Markers not found in README.md")
         return
 
-    intro_line = "Here are a few of my recent public projects — experiments, tools, and the occasional miracle:"
-    repo_lines = [intro_line, ""]
+    repo_lines = [""]
     for name, url, description in repos:
-        repo_lines.append(f"➤ [{name}]({url}) — {description}\n")
+        repo_lines.append(f"➤ [{name}]({url}) — {description}")
 
     new_section = f"{start_marker}\n" + "\n".join(repo_lines) + f"\n{end_marker}"
     new_content = content[:start] + new_section + content[end + len(end_marker):]
