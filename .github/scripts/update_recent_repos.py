@@ -17,7 +17,7 @@ def get_recent_repos(username, token, max_repos=10):
 
     repos = []
     for repo in repos_data:
-        if repo["fork"] || repo["archived"]:
+        if repo["fork"] | repo["archived"]:
             continue  # Skip forked repos
 
         name = repo["name"]
