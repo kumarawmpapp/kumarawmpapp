@@ -4,7 +4,6 @@
 I’ve been messing around with a few things lately — here’s what I’ve been pushing to GitHub when I’m not doomscrolling or debugging:
 
 <!-- RECENT_REPOS_START -->
-
 ➤ [kumarawmpapp](https://github.com/kumarawmpapp/kumarawmpapp) — Profile Repository
 ➤ [meta-front-end-developer](https://github.com/kumarawmpapp/meta-front-end-developer) — Meta Front-End Developer | Coursera
 ➤ [DevTeamPro](https://github.com/kumarawmpapp/DevTeamPro) — (no description yet)
@@ -15,6 +14,7 @@ I’ve been messing around with a few things lately — here’s what I’ve bee
 ➤ [waste-helper](https://github.com/kumarawmpapp/waste-helper) — private repo of REM Waste Management system 2
 ➤ [littlelemon](https://github.com/kumarawmpapp/littlelemon) — iOS app capstone project
 ➤ [little-lemon-menu-app-ios](https://github.com/kumarawmpapp/little-lemon-menu-app-ios) — (no description yet)
+
 <!-- RECENT_REPOS_END -->
 
 
