@@ -45,9 +45,9 @@ def update_readme(repos):
 
     repo_lines = [""]
     for name, url, description in repos:
-        repo_lines.append(f"➤ [{name}]({url}) — {description}")
+        repo_lines.append(f"➤ [{name}]({url}) — {description}\n")
 
-    new_section = f"{start_marker}\n" + "\n".join(repo_lines) + f"\n{end_marker}"
+    new_section = f"{start_marker}\n" + "".join(repo_lines) + f"\n{end_marker}"
     new_content = content[:start] + new_section + content[end + len(end_marker):]
 
     with open("README.md", "w", encoding="utf-8") as f:
