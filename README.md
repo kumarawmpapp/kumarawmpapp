@@ -17,13 +17,13 @@ I’ve been messing around with a few things lately — here’s what I’ve bee
 
 ➤ [waste-manager-5](https://github.com/kumarawmpapp/waste-manager-5) — Waste management order process
 
-➤ [waste-management-5](https://github.com/kumarawmpapp/waste-management-5) — (no description yet)
-
-➤ [waste-helper](https://github.com/kumarawmpapp/waste-helper) — private repo of REM Waste Management system 2
-
 ➤ [littlelemon](https://github.com/kumarawmpapp/littlelemon) — iOS app capstone project
 
 ➤ [little-lemon-menu-app-ios](https://github.com/kumarawmpapp/little-lemon-menu-app-ios) — (no description yet)
+
+➤ [little-lemon-dinner-menu](https://github.com/kumarawmpapp/little-lemon-dinner-menu) — Little Lemon dinner menu
+
+➤ [little-lemon-reservation-swiftui](https://github.com/kumarawmpapp/little-lemon-reservation-swiftui) — Little Lemon reservation app
 
 <!-- RECENT_REPOS_END -->
 
