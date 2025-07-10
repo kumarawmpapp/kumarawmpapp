@@ -3,7 +3,7 @@
 Self-taught software engineer from 🇱🇰 Sri Lanka.  
 Curious about how things work. Always exploring best practices. 
 
----
+
 
 ## 🧰 Tech I’ve Surfed So Far
 
@@ -13,7 +13,7 @@ Curious about how things work. Always exploring best practices.
 **Mobile**: iOS (Swift/Obj-C), Android (Java), Flutter, React Native  
 **Other Tools**: Git, Zsh, Docker, Postman, Zod, TanStack
 
----
+
 
 ## 📦 Projects & Gists
 
@@ -29,13 +29,13 @@ iOS taxi booking app for local rides. Native performance with Swift & Objective-
 ### 🧾 **PDF Invoice Generator (WIP)**  
 Web tool to create, manage, and populate invoice templates with data. Generates downloadable PDFs and supports email delivery.
 
----
+
 
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarawmpapp&layout=compact)
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -44,6 +44,6 @@ Web tool to create, manage, and populate invoice templates with data. Generates 
 - 📦 [npm](https://www.npmjs.com/~kumarawmp)  
 - 💬 [Stack Overflow](https://stackoverflow.com/users/8943620/kumara)
 
----
+
 
 > 😉_Still learning. Still shipping. Still breaking things on purpose to understand how they work._🛠️
