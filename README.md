@@ -40,10 +40,8 @@ Web tool to create, manage, and populate invoice templates with data. Generates 
 ## 🌐 Connect With Me
 
 - 📧 Email: [kumara_wm@yahoo.com](mailto:kumara_wm@yahoo.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pradeepkumarawm/?original_referer=)  
-- 📦 [npm](https://www.npmjs.com/~kumarawmp)  
-- 💬 [Stack Overflow](https://stackoverflow.com/users/8943620/kumara)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pradeepkumarawm)  
 
 
 
-> 😉_Still learning. Still shipping. Still breaking things on purpose to understand how they work._🛠️
+> 🛠️_Still learning. Still shipping. Still breaking things on purpose to understand how they work._😉
