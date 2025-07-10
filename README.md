@@ -1,38 +1,49 @@
+# Hey there, I'm Pradeep Kumara 👋
 
-## 🕒 Recent Repositories
+Self-taught software engineer from 🇱🇰 Sri Lanka.  
+Curious about how things work. Always exploring best practices. 
 
-I’ve been messing around with a few things lately — here’s what I’ve been pushing to GitHub when I’m not doomscrolling or debugging:
+---
 
-<!-- RECENT_REPOS_START -->
+## 🧰 Tech I’ve Surfed So Far
 
-➤ [kumarawmpapp](https://github.com/kumarawmpapp/kumarawmpapp) — Profile Repository
+**Languages**: JavaScript / TypeScript, Swift, Objective-C, Python  
+**Frontend**: React, Vite, Tailwind CSS, React Hook Form  
+**Backend**: Node.js, Express, Firebase  
+**Mobile**: iOS (Swift/Obj-C), Android (Java), Flutter, React Native  
+**Other Tools**: Git, Zsh, Docker, Postman, Zod, TanStack
 
-➤ [meta-front-end-developer](https://github.com/kumarawmpapp/meta-front-end-developer) — Meta Front-End Developer | Coursera
+---
 
-➤ [DevTeamPro](https://github.com/kumarawmpapp/DevTeamPro) — (no description yet)
+## 📦 Projects & Gists
 
-➤ [accountbook](https://github.com/kumarawmpapp/accountbook) — (no description yet)
+### 🔁 [`git-clone` (Zsh)](https://gist.github.com/kumarawmpapp/69910af63c103ca65de15f665ddb5f9d)  
+Zsh function to clone Git repos using different SSH profiles. For devs juggling multiple identities. Tab completion, full arg support, SSH → HTTPS fallback.
 
-➤ [portfolio-profile](https://github.com/kumarawmpapp/portfolio-profile) — Portfolio page for the assignment
+### 🍔 [Touch2Buy](https://github.com/kumarawmpapp/touch2buy)  
+Food ordering platform that unifies multiple restaurants into a fast, touch-first experience. Built with the Sri Lankan market in mind.
 
-➤ [waste-manager-5](https://github.com/kumarawmpapp/waste-manager-5) — Waste management order process
+### 🚖 [HireMe](https://github.com/kumarawmpapp/HireMe)  
+iOS taxi booking app for local rides. Native performance with Swift & Objective-C.
 
-➤ [littlelemon](https://github.com/kumarawmpapp/littlelemon) — iOS app capstone project
+### 🧾 **PDF Invoice Generator (WIP)**  
+Web tool to create, manage, and populate invoice templates with data. Generates downloadable PDFs and supports email delivery.
 
-➤ [little-lemon-menu-app-ios](https://github.com/kumarawmpapp/little-lemon-menu-app-ios) — (no description yet)
+---
 
-➤ [little-lemon-dinner-menu](https://github.com/kumarawmpapp/little-lemon-dinner-menu) — Little Lemon dinner menu
+## 📊 GitHub Stats
 
-➤ [little-lemon-reservation-swiftui](https://github.com/kumarawmpapp/little-lemon-reservation-swiftui) — Little Lemon reservation app
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarawmpapp&layout=compact)
 
-<!-- RECENT_REPOS_END -->
+---
 
+## 🌐 Connect With Me
 
-## 📂 Public Gists
+- 📧 Email: [kumara_wm@yahoo.com](mailto:kumara_wm@yahoo.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pradeepkumarawm/?original_referer=)  
+- 📦 [npm](https://www.npmjs.com/~kumarawmp)  
+- 💬 [Stack Overflow](https://stackoverflow.com/users/8943620/kumara)
 
-Hey 👋, I occasionally toss useful code bits into Gists. Below are some of the things I’ve shared recently — from config hacks to weird experiments I’m not brave enough to call projects yet:
+---
 
-<!-- GIST-LIST:START -->
-➤ [A smart Zsh function for cloning Git repositories using different profiles (SSH key, name, and email). Supports interactive prompts, SSH-first clone strategy, and fallback to HTTPS. Ideal for developers juggling work/personal GitHub accounts. Includes tab completion and full git clone arg support. ](https://gist.github.com/kumarawmpapp/69910af63c103ca65de15f665ddb5f9d)
-<!-- GIST-LIST:END -->
-
+> 😉_Still learning. Still shipping. Still breaking things on purpose to understand how they work._🛠️
