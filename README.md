@@ -4,15 +4,13 @@ Self-taught software engineer from 🇱🇰 Sri Lanka.
 Curious about how things work. Always exploring best practices. 
 
 
-
 ## 🧰 Tech I’ve Surfed So Far
 
-**Languages**: JavaScript / TypeScript, Swift, Objective-C, Python  
-**Frontend**: React, Vite, Tailwind CSS, React Hook Form  
-**Backend**: Node.js, Express, Firebase  
-**Mobile**: iOS (Swift/Obj-C), Android (Java), Flutter, React Native  
-**Other Tools**: Git, Zsh, Docker, Postman, Zod, TanStack
-
+**Languages**: JavaScript / TypeScript, Swift, Objective-C, Python, Java, C#.NET  
+**Frontend**: React, Vite, Tailwind CSS, ASP.NET
+**Mobile**: iOS (Swift/Obj-C), Android (Java), Flutter, React Native
+**Backend**: Node.js, Express, Firebase
+**Database**: MSSQL, MYSQL, POSTGRESQL
 
 
 ## 📦 Projects & Gists
@@ -30,18 +28,15 @@ iOS taxi booking app for local rides. Native performance with Swift & Objective-
 Web tool to create, manage, and populate invoice templates with data. Generates downloadable PDFs and supports email delivery.
 
 
-
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarawmpapp&layout=compact)
-
 
 
 ## 🌐 Connect With Me
 
 - 📧 Email: [kumara_wm@yahoo.com](mailto:kumara_wm@yahoo.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pradeepkumarawm)  
-
 
 
 > 🛠️_Still learning. Still shipping. Still breaking things on purpose to understand how they work._😉
