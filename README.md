@@ -7,10 +7,10 @@ Curious about how things work. Always exploring best practices.
 ## 🧰 Tech I’ve Surfed So Far
 
 **Languages**: JavaScript / TypeScript, Swift, Objective-C, Python, Java, C#.NET  
-**Frontend**: React, Vite, Tailwind CSS, ASP.NET
-**Mobile**: iOS (Swift/Obj-C), Android (Java), Flutter, React Native
-**Backend**: Node.js, Express, Firebase
-**Database**: MSSQL, MYSQL, POSTGRESQL
+**Frontend**: React, Vite, Tailwind CSS, ASP.NET 
+**Mobile**: iOS (Swift/Obj-C), Android (Java), Flutter, React Native 
+**Backend**: Node.js, Express, Firebase 
+**Database**: MSSQL, MYSQL, POSTGRESQL 
 
 
 ## 📦 Projects & Gists
