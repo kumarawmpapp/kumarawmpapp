@@ -30,7 +30,7 @@ Web tool to create, manage, and populate invoice templates with data. Generates 
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarawmpapp&layout=compact)
+![Top Languages](https://github-readme-stats-kumarawmp.vercel.app/api/top-langs/?username=kumarawmpapp&layout=compact)
 
 
 ## 🌐 Connect With Me
