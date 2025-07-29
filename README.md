@@ -24,13 +24,10 @@ Food ordering platform that unifies multiple restaurants into a fast, touch-firs
 ### 🚖 [HireMe](https://github.com/kumarawmpapp/HireMe)  
 iOS taxi booking app for local rides. Native performance with Swift & Objective-C.
 
-### 🧾 **PDF Invoice Generator (WIP)**  
-Web tool to create, manage, and populate invoice templates with data. Generates downloadable PDFs and supports email delivery.
-
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats-kumarawmp.vercel.app/api/top-langs/?username=kumarawmpapp&layout=compact)
+![Top Languages](https://github-readme-stats-kumarawmp.vercel.app/api/top-langs/?username=kumarawmpapp&layout=compact&size_weight=0.5&count_weight=0.5)
 
 
 ## 🌐 Connect With Me
