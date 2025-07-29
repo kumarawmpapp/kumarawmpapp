@@ -27,7 +27,7 @@ iOS taxi booking app for local rides. Native performance with Swift & Objective-
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats-kumarawmp.vercel.app/api/top-langs/?username=kumarawmpapp&layout=compact&size_weight=0.5&count_weight=0.5)
+![Top Languages](https://github-readme-stats-kumarawmp.vercel.app/api/top-langs/?username=kumarawmpapp&layout=compact&size_weight=0.5&count_weight=0.5&hide=CMake,C++)
 
 
 ## 🌐 Connect With Me
