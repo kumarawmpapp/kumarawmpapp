@@ -25,9 +25,9 @@ Curious about how things work. Always exploring best practices.
 ## 📦 Projects & Gists  
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 0;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; background-color: red; margin: 0; padding: 0;">
 
-<div>
+<div style="margin-left: 0;">
 
 [![git-clone](https://github-readme-stats-kumarawmp.vercel.app/api/gist?id=69910af63c103ca65de15f665ddb5f9d)](https://gist.github.com/kumarawmpapp/69910af63c103ca65de15f665ddb5f9d)
 
