@@ -4,7 +4,10 @@ Self-taught software engineer from 🇱🇰 Sri Lanka.
 Curious about how things work. Always exploring best practices. 
 
 
-## 🧰 Tech I’ve Surfed So Far
+## 🧰 Tech I’ve Surfed So Far  
+  
+
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
@@ -19,18 +22,32 @@ Curious about how things work. Always exploring best practices.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 
-## 📦 Projects & Gists
+## 📦 Projects & Gists  
 
 
-[![Gist Card](https://github-readme-stats-kumarawmp.vercel.app/api/gist?id=69910af63c103ca65de15f665ddb5f9d)](https://gist.github.com/kumarawmpapp/69910af63c103ca65de15f665ddb5f9d)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 0;">
 
-[![Readme Card](https://github-readme-stats-kumarawmp.vercel.app/api/pin/?username=kumarawmpapp&repo=Touch2Buy)](https://github.com/kumarawmpapp/touch2buy)
+<div>
 
-### 🚖 [HireMe](https://github.com/kumarawmpapp/HireMe)  
-iOS taxi booking app for local rides. Native performance with Swift & Objective-C.
+[![git-clone](https://github-readme-stats-kumarawmp.vercel.app/api/gist?id=69910af63c103ca65de15f665ddb5f9d)](https://gist.github.com/kumarawmpapp/69910af63c103ca65de15f665ddb5f9d)
+
+</div>
+
+<div>
+
+[![touch2buy](https://github-readme-stats-kumarawmp.vercel.app/api/pin/?username=kumarawmpapp&repo=Touch2Buy)](https://github.com/kumarawmpapp/touch2buy)
+
+</div>
+
+<div>
+
+[![hireme](https://github-readme-stats-kumarawmp.vercel.app/api/pin/?username=kumarawmpapp&repo=HireMe)](https://github.com/kumarawmpapp/HireMe)
+
+</div>
+
+</div>
 
 
-## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats-kumarawmp.vercel.app/api/top-langs/?username=kumarawmpapp&layout=compact&size_weight=0.5&count_weight=0.5&hide=CMake,C++)
 
